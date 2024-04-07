@@ -1,4 +1,4 @@
-/* Colors and fonts */
+
 body {
 background: rgb(205,125,245);
 color: #9B59B6 ;
@@ -51,7 +51,7 @@ color: rgb(210, 220, 220);
 i:hover {
 color: red;
 }
-/* Division design */
+
 .container {
 width: 700px;
 margin: 40px auto;
@@ -94,7 +94,7 @@ color: white;
 margin-bottom: 35px;
 #intro img {
   display: block;
-  margin: 20px auto; /* Ajoute une marge autour de l'image */
-  border: 5px solid #fff; /* Ajoute une bordure blanche */
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); /* Ajoute une ombre portée */
+  margin: 20px auto; 
+  border: 5px solid #fff; 
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); 
 }
